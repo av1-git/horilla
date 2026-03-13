@@ -55,6 +55,7 @@ oscrypto
 pandas
 pdfkit
 pillow
+psycopg2-binary
 pycparser
 pyHanko
 pyhanko-certvalidator
