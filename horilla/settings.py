@@ -125,9 +125,9 @@ else:
  'default': {
   'ENGINE': 'django.db.backends.postgresql',
   'NAME': 'horillahrms',
-  'USER': 'horillaadmin',
+  'USER': 'horillaadmin@horillahrms-db',
   'PASSWORD': 'HoAd@123',
-  'HOST': 'server.postgres.database.azure.com',
+  'HOST': 'horillahrms-db.postgres.database.azure.com',
   'PORT': '5432',
  }
 }
